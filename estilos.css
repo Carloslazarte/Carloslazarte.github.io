@@ -1,0 +1,27 @@
+body{
+background-color: rgb(63, 210, 30);
+background-image:url("minecraftt.webp");
+background-size: 100%;
+background-repeat: no-repeat;
+}
+.texto-centrado{
+    text-align: center;
+    background-color: rgb(63, 210, 30);
+    width:  30%;
+    margin-right:35%;
+    margin-left: 35%;
+}
+.texto-color{
+    background-color: rgb(63, 210, 30);
+    width: 20%;
+}
+.texto-centrado2{
+    background-color: rgb(63, 210, 30);
+    width: 10%;
+    border-radius: 100px;
+}
+.texto-subrayado{
+    background-color: white;
+}
+
+ 
