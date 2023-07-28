@@ -23,5 +23,29 @@ background-repeat: no-repeat;
 .texto-subrayado{
     background-color: white;
 }
+@media only screen and (max-width: 760px){
+    .texto-centrado{
+        width: 80%;
+        margin: 10%;
+        font-size: 0.75em;
+    }
+    #imagen-boton{
+        margin: 10% 20% 10% 20%;
+        display: block;
+    }
+}
+@media only screen and (max-width: 760px){
+    .texto-subrayado{
+        
+    }
+}
+@media only screen and (max-width: 480px){
+    #imagen-boton{
+        width: 100%;
+        margin: 0%;
+        font-size: 0.50em;
+
+    }
+}
 
  
