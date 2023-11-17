@@ -46,5 +46,9 @@ background-repeat: no-repeat;
 
     }
 }
+.green-text {
+    background-color: rgb(63, 210, 30);
+    color: white;
+  }
 
  
